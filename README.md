@@ -181,7 +181,7 @@ This project is licensed under the **MIT License** — feel free to use it for l
 **Amir Majeed**
 
 [![GitHub](https://img.shields.io/badge/GitHub-AmirMajeed4905-black?style=flat-square&logo=github)](https://github.com/AmirMajeed4905)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amir-majeed-03674628b/)
 
 ---
 
