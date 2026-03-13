@@ -15,9 +15,17 @@ A fully functional **Shopping Cart** web application built with **React.js** and
 
 ## 📸 Preview
 
-> *(Add a screenshot here — drag & drop an image into this section on GitHub)*
+### 🏠 Home Page
+<img width="1920" alt="Home Page" src="https://github.com/user-attachments/assets/557684db-8f7b-410e-a244-7fe4fb0ecae3" />
 
----
+### 🛒 Cart Page
+<img width="1920" alt="Cart Page" src="https://github.com/user-attachments/assets/8211e974-3c7a-494a-ae3d-0d9e65c7b9c6" />
+
+### 📋 About Page
+<img width="1920" alt="About Page" src="https://github.com/user-attachments/assets/e0cfea48-5959-4bac-b86d-4238cbdbd1df" />
+
+### 📞 Contact Page
+<img width="1920" alt="Contact Page" src="https://github.com/user-attachments/assets/542c760c-b23d-49b6-a551-3720aff0c98d" />
 
 ## ✨ Features
 
